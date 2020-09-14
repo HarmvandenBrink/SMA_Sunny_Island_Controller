@@ -145,4 +145,5 @@ def changePowerOfTheInverter(power):
 #print(sma)
 
 # A positive value means it'll feed back into the grid, a negative number means it'll take energy from the grid.
-#changePowerOfTheInverter(0)
+#changePowerOfTheInverter(1000)
+#changePowerOfTheInverter(-1500)
