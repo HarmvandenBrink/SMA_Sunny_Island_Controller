@@ -1,4 +1,4 @@
-# SMA_Sunny_Island_Controller
+# SMA Sunny Island Controller
 A controller to read out and send commands to a SMA Sunny Island battery inverter
 
 This code was used in a home built Home Energy Management System (HEMS), to include a battery into a smart home. You can read more about it in my blog post: [How I built a HEMS with solar, a battery and a charge station (in Python)](https://medium.com/@harmvandenbrink/how-i-built-a-hems-with-solar-a-battery-and-a-charge-station-in-python-d5b51e60fd1c?source=friends_link&sk=f5e9302a02ea29065c3f677ecf1b8ed8)
